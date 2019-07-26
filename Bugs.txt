@@ -1,0 +1,4 @@
+-> Obter imagem via API e exibir no Desktop
+-> Corrigir bug da obtenção de clientes sem pendências
+-> Corrigir bug do cache de títulos (após devolução)
+-> Corrigir bug do delete de atores

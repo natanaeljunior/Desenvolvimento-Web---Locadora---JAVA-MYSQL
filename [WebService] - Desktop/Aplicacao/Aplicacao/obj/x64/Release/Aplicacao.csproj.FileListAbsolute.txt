@@ -1,0 +1,64 @@
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\Aplicacao.exe.config
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\Aplicacao.exe
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\ControlzEx.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\MahApps.Metro.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\MaterialIcons.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\System.Windows.Interactivity.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\ControlzEx.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\MahApps.Metro.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\x64\Release\MahApps.Metro.xml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csprojAssemblyReference.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\MainWindow.g.cs
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\App.g.cs
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao_MarkupCompile.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao_MarkupCompile.lref
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\App.baml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\MainWindow.baml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.g.resources
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.Properties.Resources.resources
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csproj.GenerateResource.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csproj.CopyComplete
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.exe
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\Aplicacao.exe.config
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\Aplicacao.exe
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\CommonServiceLocator.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\MaterialDesignColors.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\MaterialIcons.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\System.Windows.Interactivity.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csprojAssemblyReference.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\DevolucaoWindow.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\LocarWindow.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\MainWindow.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\App.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao_MarkupCompile.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao_MarkupCompile.lref
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\App.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\DevolucaoWindow.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\LocarWindow.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\MainWindow.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.g.resources
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.Properties.Resources.resources
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csproj.GenerateResource.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.csproj.CopyComplete
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.exe
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\x64\Release\Aplicacao.pdb

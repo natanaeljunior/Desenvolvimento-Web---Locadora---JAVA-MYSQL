@@ -1,0 +1,65 @@
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\Aplicacao.exe.config
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\Aplicacao.exe
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\ControlzEx.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\MaterialIcons.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\ControlzEx.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\MainWindow.g.cs
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\App.g.cs
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao_MarkupCompile.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao_MarkupCompile.lref
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\App.baml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\MainWindow.baml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.g.resources
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.Properties.Resources.resources
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.GenerateResource.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.CopyComplete
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.exe
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\MaterialDesignColors.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csprojAssemblyReference.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\Aplicacao.exe.config
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\Aplicacao.exe
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\MaterialDesignColors.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\MaterialIcons.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\MainWindow.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\App.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao_MarkupCompile.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao_MarkupCompile.lref
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\App.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\MainWindow.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.g.resources
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.Properties.Resources.resources
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.GenerateResource.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.CopyComplete
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.exe
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\LocarWindow.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\LocarWindow.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csprojAssemblyReference.cache
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\DevolucaoWindow.g.cs
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Debug\DevolucaoWindow.baml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\CommonServiceLocator.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaquee\Desktop\Desenvolvimento Web\Projeto Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Debug\Newtonsoft.Json.xml

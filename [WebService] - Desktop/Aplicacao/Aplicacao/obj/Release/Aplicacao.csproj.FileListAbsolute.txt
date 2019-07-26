@@ -1,0 +1,61 @@
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\App.g.cs
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao_MarkupCompile.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao_MarkupCompile.lref
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\Aplicacao.exe.config
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\Aplicacao.exe
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\Aplicacao.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\ControlzEx.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\MahApps.Metro.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\MaterialIcons.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\ControlzEx.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\MahApps.Metro.pdb
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\bin\Release\MahApps.Metro.xml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\MainWindow.g.cs
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\App.baml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\MainWindow.baml
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao.g.resources
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao.Properties.Resources.resources
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao.csproj.GenerateResource.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao.csproj.CopyComplete
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao.exe
+C:\Users\Isaquee\Desktop\WebService\Aplicacao\Aplicacao\obj\Release\Aplicacao.pdb
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\Aplicacao.exe.config
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao.exe
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao.pdb
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\Aplicacao.exe
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\Aplicacao.pdb
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\MaterialDesignColors.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\MaterialIcons.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\System.Windows.Interactivity.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\MainWindow.g.cs
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\App.g.cs
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao_MarkupCompile.cache
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao_MarkupCompile.lref
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\App.baml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\MainWindow.baml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao.g.resources
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao.Properties.Resources.resources
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao.csproj.GenerateResource.Cache
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\DevolucaoWindow.g.cs
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\LocarWindow.g.cs
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\CommonServiceLocator.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.pdb
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.xml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\DevolucaoWindow.baml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\LocarWindow.baml
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\Newtonsoft.Json.dll
+C:\Users\2016122760309\Desktop\Locadora\[WebService] - Desktop\Aplicacao\Aplicacao\bin\Release\Newtonsoft.Json.xml

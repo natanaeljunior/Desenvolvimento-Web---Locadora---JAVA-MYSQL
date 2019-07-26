@@ -1,0 +1,149 @@
+﻿<Window x:Class="Aplicacao.LocarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplicacao.Validator"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Title="Locação" Height="400" Width="450">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="135*"/>
+            <ColumnDefinition Width="13*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Imagem background -->
+        <Image
+            Source="/Imagens/netflix-background.jpg"
+            Stretch="UniformToFill"
+            Opacity="0.2" Grid.ColumnSpan="2"/>
+
+        <materialDesign:Card
+            Height="350"
+            Width="350"
+            VerticalAlignment="Center"
+            Opacity="0.9" Margin="47,10,8,11">
+
+            <Grid>
+                <TextBlock
+                    HorizontalAlignment="Center"
+                    Height="20"
+                    VerticalAlignment="Top"
+                    Margin="10"
+                    FontFamily="Times"
+                    FontWeight="Bold"
+                    Foreground="Gray"
+                    Style="{StaticResource MaterialDesignCaptionTextBlock}">
+                    LOCAÇÃO
+                </TextBlock>
+
+                <Separator
+                    VerticalAlignment="Top"
+                    Margin="5,30,5,0"/>
+
+                <!-- Filme -->
+                <ComboBox
+                    materialDesign:HintAssist.Hint="{Binding ObjetoLocacao.LocacaoItem.Nome}"
+                    FontSize="11"
+                    FontFamily="Times"
+                    IsEnabled="False"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Left"
+                    Margin="25,50,0,0"
+                    Width="170"/>
+
+                <!-- Tipo -->
+                <TextBox
+                    materialDesign:HintAssist.Hint="{Binding ObjetoLocacao.LocacaoItem.Categoria}"
+                    IsEnabled="False"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    FontSize="11"
+                    FontFamily="Times"
+                    Margin="0,50,25,0"
+                    Width="100"/>
+
+                <!-- Cliente -->
+                <ComboBox
+                    x:Name="ClienteField"
+                    IsEditable="True"
+                    materialDesign:HintAssist.Hint="Cliente"
+                    Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                    Width="300"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Center"
+                    Margin="0,100,0,0"
+                    FontSize="11"
+                    FontFamily="Times"
+                    ItemsSource="{Binding Path=Clientes}"
+                    DisplayMemberPath="Nome"
+                    SelectedValuePath="Id">
+                    <ComboBox.SelectedItem>
+                        <Binding Path="ObjetoLocacao.LocacaoCliente" UpdateSourceTrigger="PropertyChanged" Mode="TwoWay">
+                            <Binding.ValidationRules>
+                                <local:NotEmptyValidationRule ValidatesOnTargetUpdated="True" />
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </ComboBox.SelectedItem>
+                </ComboBox>
+
+                <!-- Vencimento da locação -->
+                <DatePicker
+                    x:Name="FutureDatePicker"
+                    Width="300"
+                    Margin="0,180,0,0"
+                    FontSize="11"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Center"
+                    FontFamily="Times"
+                    materialDesign:HintAssist.Hint="Vencimento">
+                    <DatePicker.SelectedDate>
+                        <Binding
+                            Path="ObjetoLocacao.Vencimento"
+                            UpdateSourceTrigger="PropertyChanged"
+                            Mode="TwoWay">
+                            <Binding.ValidationRules>
+                                <local:FutureDateValidationRule ValidatesOnTargetUpdated="True" />
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </DatePicker.SelectedDate>
+                </DatePicker>
+
+                <!-- Valor -->
+                <TextBox
+                    x:Name="CommentTextBox"
+                    materialDesign:HintAssist.Hint="Valor"
+                    Width="300"
+                    Text="{Binding ObjetoLocacao.Valor}"
+                    Height="30"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Center"
+                    FontSize="11"
+                    FontFamily="Times"
+                    PreviewTextInput="NumberValidation"
+                    Margin="0,240,0,0"/>
+
+                <Button
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Width="100"
+                    Height="30"
+                    FontSize="11"
+                    FontFamily="Times"
+                    ToolTip="Confirmar locação"
+                    VerticalAlignment="Bottom"
+                    HorizontalAlignment="Center"
+                    Margin="20"
+                    Command="{Binding SubmitLocacaoCommand}">
+                    CONFIRMAR
+                </Button>
+
+
+            </Grid>
+
+        </materialDesign:Card>
+
+    </Grid>
+</Window>

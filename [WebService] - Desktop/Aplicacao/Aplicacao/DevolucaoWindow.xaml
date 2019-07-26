@@ -1,0 +1,95 @@
+﻿<Window x:Class="Aplicacao.DevolucaoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplicacao"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        Title="Devolução" Height="250" Width="450">
+    <Grid>
+        
+        <!-- Imagem background -->
+        <Image
+            Grid.Row="1"
+            Source="/Imagens/netflix-background.jpg"
+            Stretch="UniformToFill"
+            Opacity="0.2"/>
+
+        <materialDesign:Card
+            Height="200"
+            Width="350"
+            VerticalAlignment="Center"
+            Opacity="0.9">
+
+            <Grid>
+                <TextBlock
+                    HorizontalAlignment="Center"
+                    Height="20"
+                    VerticalAlignment="Top"
+                    Margin="10"
+                    FontFamily="Times"
+                    FontWeight="Bold"
+                    Foreground="Gray"
+                    Style="{StaticResource MaterialDesignCaptionTextBlock}">
+                    DEVOLUÇÃO
+                </TextBlock>
+
+                <Separator
+                    VerticalAlignment="Top"
+                    Margin="5,30,5,0"/>
+
+                <!-- Filme -->
+                <ComboBox
+                    materialDesign:HintAssist.Hint="{Binding ItemDevolucao.Nome}"
+                    FontSize="11"
+                    FontFamily="Times"
+                    IsEnabled="False"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Left"
+                    Margin="25,50,0,0"
+                    Width="170"/>
+
+                <!-- Tipo -->
+                <TextBox
+                    materialDesign:HintAssist.Hint="{Binding ItemDevolucao.Categoria}"
+                    IsEnabled="False"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    FontSize="11"
+                    FontFamily="Times"
+                    Margin="0,50,25,0"
+                    Width="100"/>
+
+                <!-- Número de série -->
+                <TextBox
+                    materialDesign:HintAssist.Hint="{Binding DataDevolucaoPrevista}"
+                    IsEnabled="False"
+                    Width="300"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Center"
+                    Margin="0,110,0,0"
+                    FontSize="11"
+                    FontFamily="Times"/>
+
+                <Button
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Width="100"
+                    Height="30"
+                    FontSize="11"
+                    FontFamily="Times"
+                    ToolTip="Confirmar locação"
+                    VerticalAlignment="Bottom"
+                    HorizontalAlignment="Center"
+                    Margin="15"
+                    Command="{Binding SubmitDevolucaoCommand}">
+                    CONFIRMAR
+                </Button>
+
+            </Grid>
+        </materialDesign:Card>
+
+    </Grid>
+</Window>
